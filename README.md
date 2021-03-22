@@ -6,4 +6,5 @@
 #### *Conversly, if one is unable to use these experiences to better oneself, self growth will not be able to occur*
 ### So how can someone remind themselves to have this mindset? **Here are 3 ways:**
 1. Patience is key
-- Understand that new skills 
+-     Understand that new skills need time to develop so that one can be effective when employing these skills
+2. 
