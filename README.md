@@ -4,6 +4,6 @@
 #### Self growth can only occur if one's personal mindset is focusing on the end of the journey instead of the hardships of the present.
 #### If one is able to use all of his or her experiences whether they be positive or negative in a way to better oneself, than self growth will occur!
 #### *Conversly, if one is unable to use these experiences to better oneself, self growth will not be able to occur*
-### So how can someone remind themselves to have this mindset? Here are 3 ways:
+### So how can someone remind themselves to have this mindset? **Here are 3 ways:**
 1. Patience is key
 - Understand that new skills 
