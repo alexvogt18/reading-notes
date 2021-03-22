@@ -10,4 +10,4 @@
 -     Understand that new skills need time to develop so that one can be effective when employing these skills
 2. Give 100% effort
 -     If one were to rely on someone else to explain concepts to he/she/they, then the real learning concepts cannot be embedded in one's knowledge toolbox.
-3. 
+3. Go into each day eager for more learning opportunities.
