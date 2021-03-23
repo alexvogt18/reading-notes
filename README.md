@@ -16,7 +16,10 @@ self growth
 
 # **Table of Contents**
 -[Reading Assignment 1 "Learning Markdown"](rassign1.md)
+
 -[Reading Assignment 2 "The Coder's Computer"](rassign2.md)
+
 -[Reading Assignment 3 "Revisions and the Cloud"](rassign3.md)
+
 -[Reading Assignment 4 "Structure web pages with HTML"](rassign4.md)
 
