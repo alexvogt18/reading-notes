@@ -1,5 +1,6 @@
 # reading-notes
 ## This is my first public repository for my reading notes in class 102 of CodeFellows!
+## Check out my profile page [Here!](https://github.com/alexvogt18)
 ### **This section will be discussing the concept of "Self-Growth" according to me!**
 ### Self growth
 self growth
