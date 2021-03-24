@@ -7,8 +7,8 @@
 ### What are some of the basics of Markdown?
 -(#-6x#) Determines if the size of the font will be between Headline 1- Headline 6.
 
--Italics=*
--Bold=**
+-Italics=*_*
+-Bold=**_**
 
 
 [Return to Home](README.md)
