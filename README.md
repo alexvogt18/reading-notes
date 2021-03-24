@@ -10,7 +10,7 @@
 
 - [Reading Assignment 4 "Structure web pages with HTML"](rassign4.md)
 
-- [Reading Assignment5 "Design Web Pages with CSS](rassign5.md)
+- [Reading Assignment 5 "Design Web Pages with CSS](rassign5.md)
 
 ### **This section will be discussing the concept of "Self-Growth" according to me!**
 ### Self growth
