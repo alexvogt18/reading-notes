@@ -1,6 +1,15 @@
 # reading-notes
 ## This is my first public repository for my reading notes in class 102 of CodeFellows!
 ## Check out my profile page [Here!](https://github.com/alexvogt18)
+# **Table of Contents**
+-[Reading Assignment 1 "Learning Markdown"](rassign1.md)
+
+-[Reading Assignment 2 "The Coder's Computer"](rassign2.md)
+
+-[Reading Assignment 3 "Revisions and the Cloud"](rassign3.md)
+
+-[Reading Assignment 4 "Structure web pages with HTML"](rassign4.md)
+
 ### **This section will be discussing the concept of "Self-Growth" according to me!**
 ### Self growth
 self growth
