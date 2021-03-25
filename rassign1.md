@@ -1,5 +1,6 @@
 # Reading Assignment 1
 ## Learning Markdown
+<hr />
 
 ### What is the *purpose* of Markdown?
 -Markdown is a coding language that is simplified for quick editing used on GitHub.

@@ -1,5 +1,6 @@
 # Reading Assignment 8
 ## Operators and Loops
+<hr />
 
 ### 1) Comparison operators evaluates data
 - Evaluating data returns a Boolean: true or false.

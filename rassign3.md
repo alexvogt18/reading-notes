@@ -1,5 +1,6 @@
 # Reading Assignment 3
 ## Revisions and the Cloud
+<hr />
 
 ### These notes include observations from Lab 03 Stretch Goals
 

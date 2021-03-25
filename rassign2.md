@@ -1,5 +1,6 @@
 # Reading Assignment 2
 ## The Coder's Computer
+<hr />
 
 ### What was installed?
 

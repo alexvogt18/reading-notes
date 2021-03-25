@@ -1,5 +1,6 @@
 # Reading Assignment 4
 ## Structure web pages with HTML
+<hr />
 
 ### 1) Start with using DOCTYPE to ID HTML
 

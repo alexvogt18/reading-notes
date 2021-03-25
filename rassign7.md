@@ -1,5 +1,6 @@
 # Reading Assignment 7 "Javascript Continued"
 ## JavaScript and Computer Logic Continued
+<hr />
 
 ### 1) Compiled vs Scripting Language
 

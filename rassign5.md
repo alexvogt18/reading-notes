@@ -1,5 +1,6 @@
 # Reading Assignment 5
 ## Design web pages with CSS
+<hr />
 
 ### 1) Using CSS to Color
 

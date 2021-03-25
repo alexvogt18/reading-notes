@@ -1,6 +1,6 @@
 # reading-notes
-## This is my first public repository for my reading notes in class 102 of CodeFellows!
 ## Check out my profile page [Here!](https://github.com/alexvogt18)
+
 # **Table of Contents**
 - [Reading Assignment 1 "Learning Markdown"](rassign1.md)
 
