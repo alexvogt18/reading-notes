@@ -27,6 +27,10 @@
 
 6) Use a capitalized letter at the start of variables with multiple words, capitilize each word in the variable.
 
+### 6) Computers: Take Input, Store information, Process information, and Produce an output.
+
+### 7)  Computer's binary language is used to communicate.
+
 
 
 
