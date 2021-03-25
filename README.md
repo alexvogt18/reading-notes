@@ -16,6 +16,8 @@
 
 - [Reading Assignment 7 "Javascript and Computer Logic (Cont'd)"](rassign7.md)
 
+- [Reading Assignment 8 "Operators and Loops"](rassign8.md)
+
 ### **This section will be discussing the concept of "Self-Growth" according to me!**
 ### Self growth
 self growth
