@@ -1,5 +1,5 @@
 # Reading Assignment 6
-## 
+## JavaScript and Computer Logic
 
 ### 1)
 

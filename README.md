@@ -14,6 +14,8 @@
 
 - [Reading Assignment 6 "Javascript and Computer Logic"](rassign6.md)
 
+- [Reading Assignment 7 "Javascript and Computer Logic (Cont'd)"](rassign7.md)
+
 ### **This section will be discussing the concept of "Self-Growth" according to me!**
 ### Self growth
 self growth
