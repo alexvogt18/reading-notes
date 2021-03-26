@@ -10,9 +10,17 @@
 
     - Scripts are JavaScript programs
 
-### 2)
+### 2) Expressions rely on things called operators which are ways to use raw values. 3 Types:
 
-### 3) 
+    - Assignment Operators: Assigns a label to a value.
+
+    - Arithmetic Operators: Performs basic math.
+
+    - String Operators: Combine strings of information.
+
+### 3) Declaring and Calling Functions:
+
+- Varible rules from [Reading Assignment 6](rassign6.md) apply.
 
 
 
