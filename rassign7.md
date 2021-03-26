@@ -20,7 +20,7 @@
 
 ### 3) Declaring and Calling Functions:
 
-- Varible rules from [Reading Assignment 6](rassign6.md) apply.
+- Variable rules from [Reading Assignment 6](rassign6.md) apply.
 
 
 
