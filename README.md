@@ -1,5 +1,5 @@
 # reading-notes
-This is my public repository for my reading notes in class 102 of CodeFellows!
+This is my public repository for my reading notes in class 201 of CodeFellows!
 
 ## Table of Contents
 
