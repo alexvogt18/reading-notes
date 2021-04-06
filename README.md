@@ -4,7 +4,7 @@ This is my public repository for my reading notes in class 201 of CodeFellows!
 ## Table of Contents
 
 - #### [Reading Assignment 1](class-01.md)
-- #### [Reading Assignment 2](rassign2.md)
+- #### [Reading Assignment 2](class-02.md)
 - #### [Reading Assignment 3](rassign3.md)
 - #### [Reading Assignment 4](rassign4.md)
 - #### [Reading Assignment 5](rassign5.md)
