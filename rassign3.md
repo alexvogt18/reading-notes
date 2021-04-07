@@ -28,6 +28,6 @@
 
 - Switch Statements usually use 3 or more conditions in the form of "cases"
 
-- While loops can be used for multiple operations for true statements. These statements use i=0 funtions.
+- While loops can be used for multiple operations for true statements. These statements use i=0 funtions. 
 
 [Home](README.md) 
