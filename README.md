@@ -1,6 +1,6 @@
 # Reading Notes for All Classes
 This is my public repository for my reading notes in 
 
-[Class 201d74](TOC_two.md)
+[Class 201d74](Reading 201/TOC_two.md)
 
-[Class 301d74](TOC_three.md)
+[Class 301d74](Reading 301/TOC_three.md)
