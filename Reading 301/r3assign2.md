@@ -22,3 +22,5 @@
 - #### What are some examples of things that we could store in state?
     - Things that require a count, for instance reducing the number of guesses.
     - Great for form entry.
+
+    [<==Table of Contents](TOC.three.md)

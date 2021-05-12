@@ -17,4 +17,4 @@
 - #### [Reading Assignment 13](r3assign13.md)
 - #### [Reading Assignment 14](r3assign14.md)
 
-[<==Home](README.md) 
+[<==Home](README.md)
